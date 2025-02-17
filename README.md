@@ -1,14 +1,16 @@
 # 🌍 RoamSpeak: AI-Powered Language Learning Game
 
+![RoamSpeak](assets/roamspeak.webp)
+
 ## 🏆 Overview
 RoamSpeak is an **AI-driven, immersive language learning game** that places players in a virtual city where they must interact with NPCs, complete real-world tasks, and progress from a **tourist** to a **local resident** while naturally acquiring a new language.
 
 ## 🎯 Key Features
-✅ **Adaptive AI Dialogues** – NPCs adjust their speech based on player skill level.  
-✅ **Real-Life Scenarios** – Order at a café, ask for directions, and navigate daily life.  
-✅ **Speech Recognition** – Practice speaking with voice input and get real-time feedback.  
-✅ **Progression System** – Advance from **Tourist** → **Short-Term Resident** → **Long-Term Resident**.  
-✅ **Gamified Learning** – Earn XP, unlock new locations, and track progress.  
+✅ **Adaptive AI Dialogues** – NPCs adjust their speech based on player skill level.
+✅ **Real-Life Scenarios** – Order at a café, ask for directions, and navigate daily life.
+✅ **Speech Recognition** – Practice speaking with voice input and get real-time feedback.
+✅ **Progression System** – Advance from **Tourist** → **Short-Term Resident** → **Long-Term Resident**.
+✅ **Gamified Learning** – Earn XP, unlock new locations, and track progress.
 
 ## 🛠️ Tech Stack
 | Component  | Tool |
@@ -34,12 +36,12 @@ npm install --prefix frontend
 ```
 
 ### 3️⃣ Run the Game Locally
-**Start Backend:**  
+**Start Backend:**
 ```bash
 cd backend
 uvicorn main:app --reload
 ```
-**Start Frontend:**  
+**Start Frontend:**
 ```bash
 cd frontend
 npm run dev
