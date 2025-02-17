@@ -1,6 +1,8 @@
 # 🌍 RoamSpeak: AI-Powered Language Learning Game
 
-![RoamSpeak](assets/roamspeak.webp)
+<div align="center">
+<img src="assets/roamspeak.webp" width="400">
+</div>
 
 ## 🏆 Overview
 RoamSpeak is an **AI-driven, immersive language learning game** that places players in a virtual city where they must interact with NPCs, complete real-world tasks, and progress from a **tourist** to a **local resident** while naturally acquiring a new language.
